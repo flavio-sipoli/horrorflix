@@ -8,4 +8,8 @@ O objetivo deste projeto era pratica do uso do Carousel com Jquery e [Owl Carous
 - HTML5
 - CSS3
 - jQuery
-- Owl Carousel.
+- Owl Carousel
+
+## SCREENSHOT
+
+![image](https://github.com/flavio-sipoli/horrorflix/blob/master/assets/screenshot/screenshot.png)
